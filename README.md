@@ -1,0 +1,1 @@
+# equalsverifier-java9-module-bug
